@@ -1,0 +1,2 @@
+2020-08-18 13:51:47 [http-nio-8443-exec-2] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: column offerings0_.careprovider_careprovider_id does not exist
+  Position: 8

@@ -1,0 +1,37 @@
+2020-08-14 19:24:42 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 2236 (C:\Users\nandh\git\repository\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\repository\qdm-care-supervisor)
+2020-08-14 19:24:42 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-14 19:24:42 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-08-14 19:24:47 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 5.977 seconds (JVM running for 6.755)
+2020-08-14 19:26:09 [http-nio-9999-exec-3] INFO  c.q.c.u.c.CareProviderController - Get All CareProviders Records
+2020-08-14 19:28:03 [http-nio-9999-exec-6] ERROR c.q.c.u.c.CareProviderController - Error Occured At addCareProvider : null
+2020-08-14 19:30:35 [http-nio-9999-exec-8] ERROR c.q.c.u.c.CareProviderController - Error Occured At addCareProvider : null
+2020-08-14 19:32:19 [http-nio-9999-exec-10] ERROR c.q.c.u.c.CareProviderController - Error Occured At addCareProvider : null
+2020-08-14 19:32:36 [http-nio-9999-exec-2] ERROR c.q.c.u.c.CareProviderController - Error Occured At addCareProvider : null
+2020-08-14 19:37:24 [http-nio-9999-exec-7] INFO  c.q.c.u.c.CareProviderController - Created Care Provider Successfully With ID : 1
+2020-08-14 19:37:30 [http-nio-9999-exec-8] INFO  c.q.c.u.c.CareProviderController - Created Care Provider Successfully With ID : 2
+2020-08-14 19:37:42 [http-nio-9999-exec-9] INFO  c.q.c.u.c.CareProviderController - Get All CareProviders Records
+2020-08-14 19:38:59 [http-nio-9999-exec-2] ERROR c.q.c.u.c.CareProviderController - Error Occured At updateCareProvider : null
+2020-08-14 19:39:42 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 2236 (C:\Users\nandh\git\repository\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\repository\qdm-care-supervisor)
+2020-08-14 19:39:42 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-14 19:39:42 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-08-14 19:39:44 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.769 seconds (JVM running for 902.934)
+2020-08-14 19:39:57 [http-nio-9999-exec-2] ERROR c.q.c.u.c.CareProviderController - Error Occured At updateCareProvider : null
+2020-08-14 19:40:07 [http-nio-9999-exec-4] INFO  c.q.c.u.c.CareProviderController - Get All CareProviders Records
+2020-08-14 19:40:29 [http-nio-9999-exec-5] ERROR c.q.c.u.c.CareProviderController - Error Occured At updateCareProvider : null
+2020-08-14 19:41:33 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 6824 (C:\Users\nandh\git\repository\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\repository\qdm-care-supervisor)
+2020-08-14 19:41:33 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-14 19:41:33 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-08-14 19:41:37 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 4.656 seconds (JVM running for 8.192)
+2020-08-14 19:43:04 [http-nio-9999-exec-1] ERROR c.q.c.u.c.CareProviderController - Error Occured At updateCareProvider : null
+2020-08-14 19:43:14 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 2504 (C:\Users\nandh\git\repository\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\repository\qdm-care-supervisor)
+2020-08-14 19:43:14 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-14 19:43:14 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-08-14 19:43:20 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 7.179 seconds (JVM running for 8.164)
+2020-08-14 19:45:44 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10436 (C:\Users\nandh\git\repository\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\repository\qdm-care-supervisor)
+2020-08-14 19:45:44 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-14 19:45:44 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-08-14 19:45:48 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 4.125 seconds (JVM running for 4.86)
+2020-08-14 19:47:10 [http-nio-9999-exec-1] INFO  c.q.c.u.c.CareProviderController - Updated Care Provider With Id : 1
+2020-08-14 20:09:28 [http-nio-9999-exec-5] INFO  c.q.c.u.c.CareProviderController - Updated Care Provider With Id : 1
+2020-08-14 20:16:19 [http-nio-9999-exec-8] INFO  c.q.c.u.c.CareProviderController - Updated Care Provider With Id : 1
+2020-08-14 20:17:00 [http-nio-9999-exec-9] INFO  c.q.c.u.c.CareProviderController - Updated Care Provider With Id : 1
